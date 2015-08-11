@@ -39,7 +39,7 @@ namespace CardGames
 			SwinGame.DrawBitmap ("cardsBoard.png", 0, 0);
 
 			//New font
-			SwinGame.LoadFontNamed("GameFont","Chuckfive.otf",24);
+			SwinGame.LoadFontNamed("GameFont","chunckfive.otf",24);
 
 			// Draw the top card
 			Card top = myGame.TopCard;
